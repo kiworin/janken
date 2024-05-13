@@ -4,6 +4,7 @@ Implementation of classic arcade game Pong
 链接打开可以直接使用：https://py2.codeskulptor.org/#user50_sEwNk5hXrO_0.py
 
 原先只有重新游戏，现在增加了pause以及continue游戏
+main里还是原始版本
 
 之后想要增加输入游戏回合，进行胜负判断
 
